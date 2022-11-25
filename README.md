@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @fraile-tok
+- 👀 I’m interested in Computational Biology, Neuroscience
+- 🌱 I’m currently learning Julia, Python, Data Science
