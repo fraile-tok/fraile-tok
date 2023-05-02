@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fraile-tok
-- 👀 I’m interested in Computational Biology, Neuroscience
-- 🌱 I’m currently learning Julia, Python, Data Science
+- 👀 I’m interested in Computational Biology, Bioinformatics, Bioethics
+- 🌱 Majoring in Biomedical Research
