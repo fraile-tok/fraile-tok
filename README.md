@@ -6,5 +6,3 @@ Biomedical Research (UNAM) and Philosophy student (UP). Interested in the inters
 
 ### Currently Working On
 — My Biomedical Research Thesis (+ paper, God willing). See some of the [scripts](https://github.com/fraile-tok/scripts-tesis) I am working on/using.
-
-— A script to generate diplomas/certificates based of info in a .csv and a template in Word.
