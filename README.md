@@ -5,4 +5,4 @@ Biomedical Research (UNAM) and Philosophy student (UP). Interested in the inters
 [![Fraile Tok's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=fraile-tok)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Currently Working On
-— My Biomedical Research Thesis (+ paper, God willing). See some of the [scripts](https://github.com/fraile-tok/scripts-tesis) I am working on/using.
+— My Biomedical Research Thesis (+ paper, God willing).
