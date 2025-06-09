@@ -6,4 +6,4 @@ Biomedical Research (UNAM) and Philosophy student (UP). Interested in the inters
 
 ### Currently Working On
 — My Biomedical Research Thesis (+ paper, God willing).  
-– Hopkins: a repo/display thingy for poetry.
+— Hopkins: a repo/display thingy for poetry.
